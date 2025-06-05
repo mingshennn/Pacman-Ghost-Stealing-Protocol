@@ -2,8 +2,10 @@
 
 An AI-enhanced Pacman game powered by FSM logic and A* pathfinding to enable intelligent ghost behavior. In this version, ghosts are no longer just chasing Pacman — they strategically steal power pellets in a predefined order, based on calculated shortest paths.
 
+
 ## Preview
-<img src="project_folder/Map1.png" alt="Game Preview" width="1000"/>
+<img src="project_folder/Map1.png" alt="Game Preview" width="1000" target="blank"/>
+
 
 ## Features
 
@@ -18,6 +20,7 @@ An AI-enhanced Pacman game powered by FSM logic and A* pathfinding to enable int
 
 - **Waypoint System**  
   Ghosts interact only with designated waypoints (excluding Home and Goal) to execute their stealing protocol.
+
 
 ## Note
 > If you see an error like this during the build process:
