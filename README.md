@@ -4,7 +4,7 @@ An AI-enhanced Pacman game powered by FSM logic and A* pathfinding to enable int
 
 ## Preview
 
-![Gameplay Screenshot](project_folder/Screenshot Map 1.jpg)  
+![Gameplay Screenshot](project_folder/Map1.jpg)  
 *Strategic ghost movement stealing power pellets*
 
 ## Features
