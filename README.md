@@ -20,7 +20,7 @@ Strategic ghost movement stealing power pellets
 - **Waypoint System**  
   Ghosts interact only with designated waypoints (excluding Home and Goal) to execute their stealing protocol.
 
-##Note
+## Note
 > If you see an error like this during the build process:
 > 
 > ```
