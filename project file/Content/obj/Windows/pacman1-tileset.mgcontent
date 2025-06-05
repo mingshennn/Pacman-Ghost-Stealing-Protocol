@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/User/OneDrive/Desktop/MMU/CGD6314 - Game Algorithms/GoMingShen_A2/Content/pacman1-tileset.tsx</SourceFile>
+  <SourceTime>2025-01-27T18:29:28.7653426+08:00</SourceTime>
+  <DestFile>C:/Users/User/OneDrive/Desktop/MMU/CGD6314 - Game Algorithms/GoMingShen_A2/Content/bin/Windows/pacman1-tileset.xnb</DestFile>
+  <DestTime>2025-02-15T03:06:39.9772418+08:00</DestTime>
+  <Importer>TiledMapTilesetImporter</Importer>
+  <ImporterTime>2025-01-11T01:49:08+08:00</ImporterTime>
+  <Processor>TiledMapTilesetProcessor</Processor>
+  <ProcessorTime>2025-01-11T01:49:08+08:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset>
+    <string>C:/Users/User/OneDrive/Desktop/MMU/CGD6314 - Game Algorithms/GoMingShen_A2/Content/bin/Windows/pacman1-map_0.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>
