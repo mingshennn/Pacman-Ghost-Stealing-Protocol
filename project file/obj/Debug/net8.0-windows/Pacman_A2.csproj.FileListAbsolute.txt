@@ -1,0 +1,147 @@
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\bin\Debug\net8.0-windows\Pacman_A2.exe
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\bin\Debug\net8.0-windows\Pacman_A2.deps.json
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\bin\Debug\net8.0-windows\Pacman_A2.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\bin\Debug\net8.0-windows\Pacman_A2.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\bin\Debug\net8.0-windows\MonoGame.Framework.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\bin\Debug\net8.0-windows\SharpDX.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\bin\Debug\net8.0-windows\SharpDX.Direct2D1.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\bin\Debug\net8.0-windows\SharpDX.Direct3D11.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\bin\Debug\net8.0-windows\SharpDX.Direct3D9.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\bin\Debug\net8.0-windows\SharpDX.Mathematics.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\bin\Debug\net8.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\bin\Debug\net8.0-windows\SharpDX.XAudio2.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\bin\Debug\net8.0-windows\SharpDX.XInput.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\obj\Debug\net8.0-windows\Pacman_A2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\obj\Debug\net8.0-windows\Pacman_A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\obj\Debug\net8.0-windows\Pacman_A2.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\obj\Debug\net8.0-windows\Pacman_A2.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\obj\Debug\net8.0-windows\Pacman_A2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\obj\Debug\net8.0-windows\Pacman_A2.csproj.Up2Date
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\obj\Debug\net8.0-windows\Pacman_A2.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\obj\Debug\net8.0-windows\refint\Pacman_A2.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\obj\Debug\net8.0-windows\Pacman_A2.pdb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\obj\Debug\net8.0-windows\Pacman_A2.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\Pacman_A2\obj\Debug\net8.0-windows\ref\Pacman_A2.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\Pacman_A2.exe
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\Pacman_A2.deps.json
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\Pacman_A2.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\Pacman_A2.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\Autofac.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\MonoGame.Extended.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\MonoGame.Extended.Content.Pipeline.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\MonoGame.Framework.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\SharpDX.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\SharpDX.Direct2D1.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\SharpDX.Direct3D11.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\SharpDX.Direct3D9.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\SharpDX.Mathematics.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\SharpDX.XAudio2.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\SharpDX.XInput.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\obj\Debug\net8.0-windows\Pacman_A2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\obj\Debug\net8.0-windows\Pacman_A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\obj\Debug\net8.0-windows\Pacman_A2.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\obj\Debug\net8.0-windows\Pacman_A2.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\obj\Debug\net8.0-windows\Pacman_A2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\obj\Debug\net8.0-windows\Pacman_A2.csproj.Up2Date
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\obj\Debug\net8.0-windows\Pacman_A2.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\obj\Debug\net8.0-windows\refint\Pacman_A2.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\obj\Debug\net8.0-windows\Pacman_A2.pdb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\obj\Debug\net8.0-windows\Pacman_A2.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\obj\Debug\net8.0-windows\ref\Pacman_A2.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman1-tileset.xnb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman1.xnb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\Content\ghost-animations.sf
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman-animations.sf
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\Pacman_A2.pdb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\Content\graph-directions.xnb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman-sprites.xnb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\Content\path.xnb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\Content\ghost-animations.sf
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\Content\pacman-animations.sf
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\Content\graph-directions.xnb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\Content\pacman-map.xnb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\Content\pacman-sprites.xnb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\Content\pacman1-tileset.xnb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\Content\pacman1.xnb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\Content\path.xnb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\Pacman_A2.exe
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\Pacman_A2.deps.json
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\Pacman_A2.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\Pacman_A2.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\Pacman_A2.pdb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\Autofac.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\MonoGame.Extended.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\MonoGame.Extended.Content.Pipeline.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\MonoGame.Framework.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\SharpDX.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\SharpDX.Direct2D1.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\SharpDX.Direct3D11.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\SharpDX.Direct3D9.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\SharpDX.Mathematics.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\SharpDX.XAudio2.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\bin\Debug\net8.0-windows\SharpDX.XInput.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\obj\Debug\net8.0-windows\Pacman_A2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\obj\Debug\net8.0-windows\Pacman_A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\obj\Debug\net8.0-windows\Pacman_A2.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\obj\Debug\net8.0-windows\Pacman_A2.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\obj\Debug\net8.0-windows\Pacman_A2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\obj\Debug\net8.0-windows\Pacman_A2.csproj.Up2Date
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\obj\Debug\net8.0-windows\Pacman_A2.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\obj\Debug\net8.0-windows\refint\Pacman_A2.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\obj\Debug\net8.0-windows\Pacman_A2.pdb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\obj\Debug\net8.0-windows\Pacman_A2.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\A2\obj\Debug\net8.0-windows\ref\Pacman_A2.dll
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman1-map.xnb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman1-map_0.xnb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman-wall-24.xnb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman-wall-24_0.xnb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman2-tileset.xnb
+C:\Users\User\OneDrive\Desktop\MMU\CGD6314 - Game Algorithms\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman2.xnb
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\Content\ghost-animations.sf
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman-animations.sf
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\Content\graph-directions.xnb
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman-sprites.xnb
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman-wall-24.xnb
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman-wall-24_0.xnb
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman1-map.xnb
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman1-map_0.xnb
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman1-tileset.xnb
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman1.xnb
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman2-tileset.xnb
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\Content\pacman2.xnb
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\Content\path.xnb
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\Pacman_A2.exe
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\Pacman_A2.deps.json
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\Pacman_A2.runtimeconfig.json
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\Pacman_A2.dll
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\Pacman_A2.pdb
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\Autofac.dll
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\MonoGame.Extended.dll
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\MonoGame.Extended.Content.Pipeline.dll
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\MonoGame.Framework.dll
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\SharpDX.dll
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\SharpDX.Direct2D1.dll
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\SharpDX.Direct3D11.dll
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\SharpDX.Direct3D9.dll
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\SharpDX.Mathematics.dll
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\SharpDX.XAudio2.dll
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\bin\Debug\net8.0-windows\SharpDX.XInput.dll
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\obj\Debug\net8.0-windows\Pacman_A2.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\obj\Debug\net8.0-windows\Pacman_A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\obj\Debug\net8.0-windows\Pacman_A2.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\obj\Debug\net8.0-windows\Pacman_A2.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\obj\Debug\net8.0-windows\Pacman_A2.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\obj\Debug\net8.0-windows\Pacman_A2.sourcelink.json
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\obj\Debug\net8.0-windows\Pacman_A2.csproj.Up2Date
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\obj\Debug\net8.0-windows\Pacman_A2.dll
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\obj\Debug\net8.0-windows\refint\Pacman_A2.dll
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\obj\Debug\net8.0-windows\Pacman_A2.pdb
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\obj\Debug\net8.0-windows\Pacman_A2.genruntimeconfig.cache
+C:\Users\User\Source\Repos\Pacman-Ghost-Stealing-Protocol\GoMingShen_A2\obj\Debug\net8.0-windows\ref\Pacman_A2.dll

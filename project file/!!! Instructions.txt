@@ -1,0 +1,10 @@
+Things to Change
+----------------
+
+1. Ghost's Speed: Ghost.cs - Initialize()
+
+2. Tile Map: GameMap.cs - LoadContent()
+
+3. Ghost's Start Position: PacmanScene.cs - CreateScene()
+
+4. Map's Pixel Dimension: Program.cs
