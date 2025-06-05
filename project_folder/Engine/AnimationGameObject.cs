@@ -1,4 +1,4 @@
-﻿using GAlgoT2430.IO;
+using GAlgoT2430.IO;
 using Microsoft.Xna.Framework.Graphics;
 using MonoGame.Extended.Graphics;
 using MonoGame.Extended.Serialization.Json;

@@ -1,4 +1,4 @@
-# Pacman-Ghost-Stealing-Protocol
+# Pacman Ghost Stealing Protocol
 
 An AI-enhanced Pacman game powered by FSM logic and A* pathfinding to enable intelligent ghost behavior. In this version, ghosts are no longer just chasing Pacman — they strategically steal power pellets in a predefined order, based on calculated shortest paths.
 

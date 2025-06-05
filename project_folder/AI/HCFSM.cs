@@ -1,4 +1,4 @@
-﻿
+
 namespace GAlgoT2430.AI
 {
     public abstract class HCFSM

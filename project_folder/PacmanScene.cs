@@ -1,4 +1,4 @@
-﻿using GAlgoT2430.Engine;
+using GAlgoT2430.Engine;
 
 namespace PacmanGame
 {

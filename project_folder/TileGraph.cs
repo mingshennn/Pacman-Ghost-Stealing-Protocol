@@ -1,4 +1,4 @@
-﻿using MonoGame.Extended.Tiled;
+using MonoGame.Extended.Tiled;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;

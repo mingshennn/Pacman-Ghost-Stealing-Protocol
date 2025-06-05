@@ -1,4 +1,4 @@
-﻿using GAlgoT2430.Engine;
+using GAlgoT2430.Engine;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework;
 using MonoGame.Extended.Tiled;

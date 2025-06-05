@@ -1,4 +1,4 @@
-﻿using GAlgoT2430.Engine;
+using GAlgoT2430.Engine;
 using MonoGame.Extended.Tiled.Renderers;
 using MonoGame.Extended.Tiled;
 using System.Collections.Generic;
